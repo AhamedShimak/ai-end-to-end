@@ -1,0 +1,7 @@
+2023-05-10 12:55:32,066 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2023-05-10 12:59:12,097 - ERROR - load_local_actions: Cannot hot load local actions from /workspaces/ai-end-to-end/jac/text-to-image.py: can only concatenate str (not "list") to str
+2023-05-10 12:59:55,039 - ERROR - load_local_actions: Cannot hot load local actions from jac/text-to-image.py: can only concatenate str (not "list") to str
+2023-05-10 13:01:16,420 - ERROR - load_local_actions: Cannot hot load local actions from jac/text-to-image.py: can only concatenate str (not "list") to str
+2023-05-10 13:02:13,292 - ERROR - load_local_actions: Cannot hot load local actions from jac/text-to-image.py: can only concatenate str (not "list") to str
+2023-05-10 13:02:47,147 - ERROR - load_local_actions: Cannot hot load local actions from jac/text-to-image.py: can only concatenate str (not "list") to str
