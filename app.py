@@ -1,6 +1,7 @@
 import streamlit as st
 from utils import generate_image,summerize
 
+st.set_page_config(initial_sidebar_state="collapsed")
 hide_menu_style = """
         <style>
         #MainMenu {visibility: hidden;}
@@ -23,3 +24,6 @@ if st.button("Now you go!"):
             image= generate_image(summary)
         st.info(f"summery:{summary}")
         st.image(image) 
+    
+
+
