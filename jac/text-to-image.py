@@ -1,6 +1,7 @@
 import requests
 import base64
 from jaseci.jsorc.live_actions import jaseci_action
+import os
 
 API_TOKEN="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"
 API_URL = "https://api-inference.huggingface.co/models/runwayml/stable-diffusion-v1-5"

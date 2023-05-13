@@ -1,0 +1,16 @@
+2023-05-10 12:55:32,066 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2023-05-10 12:59:12,097 - ERROR - load_local_actions: Cannot hot load local actions from /workspaces/ai-end-to-end/jac/text-to-image.py: can only concatenate str (not "list") to str
+2023-05-10 12:59:55,039 - ERROR - load_local_actions: Cannot hot load local actions from jac/text-to-image.py: can only concatenate str (not "list") to str
+2023-05-10 13:01:16,420 - ERROR - load_local_actions: Cannot hot load local actions from jac/text-to-image.py: can only concatenate str (not "list") to str
+2023-05-10 13:02:13,292 - ERROR - load_local_actions: Cannot hot load local actions from jac/text-to-image.py: can only concatenate str (not "list") to str
+2023-05-10 13:02:47,147 - ERROR - load_local_actions: Cannot hot load local actions from jac/text-to-image.py: can only concatenate str (not "list") to str
+2023-05-10 15:54:29,858 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2023-05-10 15:59:29,199 - ERROR - load_module_actions: Cannot hot load module actions from jac_nlp.cl_summer: No module named 'jac_nlp'
+2023-05-10 16:00:17,497 - ERROR - load_module_actions: Cannot hot load module actions from jac_nlp.cl_summer: No module named 'jac_nlp'
+2023-05-10 16:00:37,924 - ERROR - load_module_actions: Cannot hot load module actions from jac_nlp: No module named 'jac_nlp'
+2023-05-10 16:01:53,592 - ERROR - load_module_actions: Cannot hot load module actions from jac_nlp.cl_summer: No module named 'jac_nlp'
+2023-05-10 16:03:45,373 - ERROR - load_module_actions: Cannot hot load module actions from jac_nlp.cl_summer: No module named 'jac_nlp'
+2023-05-10 16:03:49,896 - ERROR - load_module_actions: Cannot hot load module actions from jac_nlp.cl_summer: No module named 'jac_nlp'
+2023-05-10 16:06:00,351 - ERROR - call_action: Error calling action cl_summer.summerize: Action cl_summer.summerize not found
